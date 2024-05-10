@@ -19,7 +19,7 @@ O chatbot oferece as seguintes funcionalidades:
 ## Como usar
 
 1. Acesse o notebook do Google Colab, digite no nagegador colab.new.
-2. Siga as instruções das linhas de código no arquivo chatbot_alura na página do projeto.
+2. Siga as instruções das linhas de código no arquivo chatbot.ipynb na página do projeto.
 3. Execute o código para iniciar o chatbot.
 4. Navegue pelo menu de opções para acessar as informações desejadas.
 5. Digite "6" para sair do chatbot.
