@@ -1,4 +1,4 @@
-## README.md para o Projeto Chatbot Onboarding da Alura
+## Projeto Chatbot Onboarding da Alura
 
 # Chatbot Onboarding da Alura
 
