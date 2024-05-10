@@ -1,5 +1,6 @@
 ## Projeto Chatbot Onboarding da Alura
 
+
 # Chatbot Onboarding da Alura
 
 Este projeto consiste em um chatbot simples, baseado em regras, desenvolvido em Python com a biblioteca NLTK, no Google Colab. O objetivo do chatbot é dar as boas-vindas aos novos funcionários da Alura, fornecendo informações importantes sobre a empresa, benefícios, ambiente de trabalho e desenvolvimento profissional.
@@ -36,7 +37,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, entre em contato com Alex Goncalves, e-mail:asg.goncalves@gmail.com.
+Em caso de dúvidas ou sugestões, entre em contato com Alex Goncalves, linkedin: https://www.linkedin.com/in/alexsilvagoncalves/
 
 ---
 
